@@ -1,0 +1,11 @@
+main: fr.silenthill99.wsskyblock.Main
+name: WSSkyBlock
+version: 1.0.0
+author: silenthill99
+commands:
+  shop:
+    aliases: s
+  menu:
+    permission: group.modérateur-test
+    permission-message: §4Vous n'avez pas accès à cette commande !
+  param:
